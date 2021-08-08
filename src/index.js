@@ -1,5 +1,4 @@
 import './sass/main.scss';
-import './sass/photocard.scss'
 import template from "./template.hbs"
 import InfiniteScroll from "infinite-scroll"
 
